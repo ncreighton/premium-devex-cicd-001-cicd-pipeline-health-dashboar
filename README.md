@@ -1,0 +1,2 @@
+# premium-devex-cicd-001-cicd-pipeline-health-dashboar
+Your CI/CD pipelines are failing silently while you're context-switching between Slack alerts, GitHub logs, and spreadsheets. The CI/CD Pipeline Health Dashboard gives you a single source of truth—beautifully visualized in Notion—so you spot bottlenecks, failures, and performance degradation before they tank your team's velocity.  Stop playing dete
